@@ -1,0 +1,3 @@
+This is the first portion of the text file. This portion is going to be initialized 
+to GIT from the beginning. I hope that this test works. wish me luckkkkk.
+
