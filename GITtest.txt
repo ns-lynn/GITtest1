@@ -1,5 +1,9 @@
 This is the first portion of the text file. This portion is going to be initialized 
 to GIT from the beginning. I hope that this test works. wish me luckkkkk.
 
-This is text added during experimental-branch: ok I am typing here. Back to the master branch,
-I am now adding this additional addition.
+
+This is text added during experimental-branch: ok I am typing here. I am going to save this
+sentence without doing a commit.
+
+AFter merging the initial branch here I am now adding this text.
+
