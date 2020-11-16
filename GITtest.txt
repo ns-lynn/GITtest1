@@ -2,3 +2,5 @@ This is the first portion of the text file. This portion is going to be initiali
 to GIT from the beginning. I hope that this test works. wish me luckkkkk.
 
 This is text added during experimental-branch: ok I am typing here.
+
+AFter merging the initial branch here I am now adding this text.
